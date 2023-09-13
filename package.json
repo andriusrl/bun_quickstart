@@ -1,0 +1,14 @@
+{
+  "name": "bun_quickstart",
+  "module": "index.ts",
+  "type": "module",
+  "dependencies": {
+    "start": "bun index.ts"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
